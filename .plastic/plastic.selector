@@ -1,0 +1,4 @@
+repository "Praca Magisterska 2026-04-27_01-36-10/Praca Magisterska@20067290397812@cloud"
+  path "/"
+    br "/main"
+    co "/main"
